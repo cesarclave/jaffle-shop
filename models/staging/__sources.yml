@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: ecom
+    database: JAFFLE_SHOP_MESH_PLATFORM_DEV
     schema: raw
     description: E-commerce data for the Jaffle Shop
     tables:
